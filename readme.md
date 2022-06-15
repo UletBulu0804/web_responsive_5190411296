@@ -1,6 +1,6 @@
 
 
 ## Web Responsive
-NIM     : 5190411296
-Nama    : Fazri Agustian
-Kelas   : Web Responsive E
+NIM     : 5190411296</br >
+Nama    : Fazri Agustian</br >
+Kelas   : Web Responsive E</br >
